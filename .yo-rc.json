@@ -21,6 +21,9 @@
     "enableTranslation": true,
     "entitySuffix": "",
     "gitCompany": "",
+    "herokuAppName": "sewingpwa",
+    "herokuDeployType": "git",
+    "herokuJavaVersion": "11",
     "jhiPrefix": "jhi",
     "jhipsterVersion": "7.9.3",
     "languages": ["en", "fr"],
@@ -40,6 +43,7 @@
     "skipFakeData": false,
     "skipUserManagement": true,
     "testFrameworks": [],
+    "useOkta": false,
     "useSass": true,
     "websocket": false,
     "withAdminUi": true
